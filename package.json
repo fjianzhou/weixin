@@ -1,0 +1,30 @@
+{
+  "name": "weixin",
+  "version": "1.0.0",
+  "description": "微信课程",
+  "main": "autoReply.js",
+  "dependencies": {
+    "crypto": "^0.0.3",
+    "ect": "^0.5.9",
+    "nodeppt": "^1.4.1",
+    "request": "^2.72.0",
+    "xml2js": "^0.4.16"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fjianzhou/weixin.git"
+  },
+  "keywords": [
+    "微信"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fjianzhou/weixin/issues"
+  },
+  "homepage": "https://github.com/fjianzhou/weixin#readme"
+}
